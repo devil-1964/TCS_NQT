@@ -1,4 +1,4 @@
-# Problem Statement
+# Problem Statement 1
 Alice challenged Bob to write the same word as his on a typewriter. Both are kids and
 are making some mistakes in typing and are making use of the '#' key on a typewriter
 to delete the last character printed on it. An empty text remains empty even after

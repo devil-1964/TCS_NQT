@@ -5,8 +5,7 @@ class Main {
         String s2=sc.next();
         String s1=sc.next();
         
-        System.out.println(Check(s1).equals(Check(s2)));
-      
+        System.out.println(Check(s1).equals(Check(s2))?"YES":"NO");
     }
     public static List<Character> Check(String s)
     {
